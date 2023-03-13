@@ -8,10 +8,10 @@
       "title": "Sales Analysis",
       "description": "View sales by city, sales rep, and product."
     },
-    "rank": 2,
+    "rank": 6,
     "thumbnail": {
       "qStaticContentUrlDef": {
-        "qUrl": "/api/v1/apps/a79ad841-45e9-49fc-b5f8-e0e8a7f04f14/media/files/sheet_thumb_jDSPJ-0.9087594466991278.png"
+        "qUrl": "/api/v1/apps/a79ad841-45e9-49fc-b5f8-e0e8a7f04f14/media/files/sheet_thumb_jDSPJ-0.16804470966212315.png"
       }
     },
     "columns": 24,
