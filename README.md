@@ -18,4 +18,3 @@ Sales Analysis|View sales by city, sales rep, and product.
 
 Branch Name|Qlik application
 ---|---
-main|[https://4q2az9y0rhp2o8s.eu.qlikcloud.com/sense/app/a79ad841-45e9-49fc-b5f8-e0e8a7f04f14](https://4q2az9y0rhp2o8s.eu.qlikcloud.com/sense/app/a79ad841-45e9-49fc-b5f8-e0e8a7f04f14)
